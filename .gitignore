@@ -1,0 +1,4 @@
+/dist/
+/envdrift-local.json
+/envdrift-ci.json
+.DS_Store
